@@ -3,3 +3,11 @@
 .env
 .idea/
 .vscode/
+
+# Swift
+.build/
+.swiftpm/
+Package.resolved
+
+# Local working docs — never committed, deleted once the build is complete
+docs/PLAN.md
